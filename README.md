@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Syntax highlighted code block
+Syntax highlighted code 
 
 # Header 1
 

@@ -19,8 +19,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarkerX/DarkerX.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我的页面站点使用Jekyll主题的布局和样式。这个主题的名称保存在Jekyll _config中。yml配置文件。
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+和页面有困难吗?查看我们的[文档](https://help.github.com/categories es/github-pages-basics/)或[联系支持](https://github.com/contact)，我们将帮助您整理它。

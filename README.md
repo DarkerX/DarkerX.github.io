@@ -23,4 +23,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-和页面有困难吗?查看我们的[文档](https://help.github.com/categories es/github-pages-basics/)或[联系支持](https://github.com/contact)，我们将帮助您整理它。

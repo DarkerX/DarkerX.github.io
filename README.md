@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+```
 Syntax highlighted code 
 
 # Header 1

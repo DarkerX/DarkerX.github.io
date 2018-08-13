@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
-
 
 - Bulleted
 - List
